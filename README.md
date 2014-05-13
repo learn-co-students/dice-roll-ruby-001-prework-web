@@ -1,7 +1,7 @@
 ---
 tags: methods, random numbers
 language: ruby
-  resources: 2
+resources: 2
 ---
 
 # Dice Roll
