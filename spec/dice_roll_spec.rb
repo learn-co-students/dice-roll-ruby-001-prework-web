@@ -1,4 +1,3 @@
-require 'spec_helper'
 require_relative '../dice_roll'
 
 describe "#roll" do
@@ -8,11 +7,11 @@ describe "#roll" do
   end
 
   it "should return a number greater than 0" do
-    roll.should be > 0
+    expect(roll).to be > 0
   end
 
   it "should return a number less than 7" do
-    roll.should be < 7
+    expect(roll).to be < 7
   end
 
 end
