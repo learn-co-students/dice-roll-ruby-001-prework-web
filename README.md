@@ -1,14 +1,10 @@
----
-tags: methods, random numbers
-language: ruby
-resources: 2
----
+#Dice Roll
 
-# Objectives
+## Objectives
 1. More practice with return values
 2. Explore number ranges
 
-#Ruby Ranges
+##Ruby Ranges
 
 A range, in Ruby, is a set of values with a beginning and an end. A range can contain strings or integers. 
 
@@ -31,7 +27,7 @@ Would exclude the number `200` from the range.
 
 Ranges can be helpful when you are generating [arrays](http://ruby-doc.org/core-2.2.0/Array.html), which we will be learning more about soon.  
 
-#Instructions 
+##Instructions 
 
 Create method `roll` that returns a random number between 1 and 6 inside the `dice_roll.rb` file in your directory.
 
