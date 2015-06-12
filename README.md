@@ -1,8 +1,10 @@
 #Dice Roll
 
 ## Objectives
-1. More practice with return values
-2. Explore number ranges
+
+1. Writing code within a method.
+2. More practice with return values
+3. Explore number ranges
 
 ##Ruby Ranges
 
