@@ -26,7 +26,7 @@ Ranges can be helpful when you are generating [arrays](http://ruby-doc.org/core-
 
 Inside the `dice_roll.rb` file, define a method `roll` that returns a random number between one (1) and six (6).
 
-**Hint:** *Try to googling "how to generate a random number in ruby".*
+**Hint:** *Try  googling "how to generate a random number in ruby".*
 
 
 ##Bonus
