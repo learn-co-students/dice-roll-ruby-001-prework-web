@@ -2,6 +2,10 @@
 
 # Feel free to google "how to generate a random number in ruby"
 
-def roll
-  # code goes here
+def roll()
+  roll = 1+rand(6)
+  puts "the die rolled #{roll}"
+  roll
 end
+
+roll()
