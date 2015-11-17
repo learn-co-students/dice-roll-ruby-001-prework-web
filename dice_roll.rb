@@ -3,6 +3,7 @@
 # Feel free to google "how to generate a random number in ruby"
 
 def roll
-  dieroll = rand (1..6)
+  die = [1, 2, 3, 4, 5, 6]
+  dieroll = rand(1..die.length)
   return dieroll
 end
