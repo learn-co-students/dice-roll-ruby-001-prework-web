@@ -4,4 +4,9 @@
 
 def roll
   # code goes here
+  die_values = [1, 2, 3, 4, 5, 6]
+  random_value = rand(0..5)
+
+  die_values[random_value]
+
 end
