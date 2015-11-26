@@ -4,4 +4,6 @@
 
 def roll
   # code goes here
+  numbers = Array (1..6)
+  numbers.sample
 end
