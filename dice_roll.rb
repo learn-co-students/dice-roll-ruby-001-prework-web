@@ -4,4 +4,8 @@
 
 def roll
   # code goes here
+  range = (1..6)
+  rand_ = rand(range)
+  print rand_
+  rand_
 end
