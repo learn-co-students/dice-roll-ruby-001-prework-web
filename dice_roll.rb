@@ -4,4 +4,10 @@
 
 def roll
   # code goes here
+  num = Random.new
+  return num.rand(1...7)
+  
 end
+
+print roll()
+
