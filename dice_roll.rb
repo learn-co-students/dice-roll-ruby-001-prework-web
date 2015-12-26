@@ -4,4 +4,6 @@
 
 def roll
   # code goes here
+  die = rand(6) +1
+  return die
 end
