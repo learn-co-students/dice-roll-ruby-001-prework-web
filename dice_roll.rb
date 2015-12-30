@@ -4,4 +4,14 @@
 
 def roll
   # code goes here
+  dice_roll = rand(1..6)
+  puts dice_roll
+  return dice_roll
 end
+
+roll
+roll
+roll
+roll
+roll
+
