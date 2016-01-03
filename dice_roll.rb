@@ -4,4 +4,8 @@
 
 def roll
   # code goes here
+  aray = [1,2,3,4,5,6]
+  aray[(rand(0..5))]
 end
+
+puts roll
