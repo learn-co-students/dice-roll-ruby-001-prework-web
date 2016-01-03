@@ -3,5 +3,12 @@
 # Feel free to google "how to generate a random number in ruby"
 
 def roll
-  # code goes here
+
+6.times{ 
+  r = rand(1..6)
+   puts r 
+   return r
+    }
+  
 end
+    roll
