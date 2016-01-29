@@ -38,4 +38,4 @@ There are different ways to complete this lab. First, try to solve it by using r
 ## Resources
 * [CodeOdor Blog - Ruby random numbers](http://www.codeodor.com/index.cfm/2007/3/25/Ruby-random-numbers/1042)
 
-<a href='https://learn.co/lessons/dice-roll-ruby' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/dice-roll-ruby' title='Dice Roll'>Dice Roll</a> on Learn.co and start learning to code for free.</p>
