@@ -4,4 +4,8 @@
 
 def roll
   # code goes here
+
+  range = (1..6).to_a
+  num=range.sample
+  num
 end
