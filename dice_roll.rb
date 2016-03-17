@@ -7,5 +7,6 @@ def roll
   (1..6).each do |i|
     nums << i
   end
-  puts nums.shuffle.pop
+  nums.shuffle.pop
 end
+
