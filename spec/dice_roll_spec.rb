@@ -1,3 +1,4 @@
+
 require_relative '../dice_roll'
 
 describe "#roll" do
