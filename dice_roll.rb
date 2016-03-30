@@ -3,5 +3,11 @@
 # Feel free to google "how to generate a random number in ruby"
 
 def roll
-  # code goes here
+  side_count = rand(1..6)
+  puts side_count
+  return side_count
 end
+
+
+roll
+
