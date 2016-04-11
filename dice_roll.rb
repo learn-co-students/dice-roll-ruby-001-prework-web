@@ -3,5 +3,8 @@
 # Feel free to google "how to generate a random number in ruby"
 
 def roll
-  # code goes here
+    rand(1..6)
+    # rand is a 'preset' function/method in ruby, which will provide a random # within a range
 end
+
+roll #we must call on the method to run it
