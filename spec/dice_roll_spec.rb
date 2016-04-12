@@ -24,3 +24,9 @@ describe "#roll" do
   end
 
 end
+
+def roll
+return rand (1..6)
+end
+
+roll
