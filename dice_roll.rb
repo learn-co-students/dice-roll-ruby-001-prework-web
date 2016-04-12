@@ -4,4 +4,15 @@
 
 def roll
   # code goes here
+  1 + rand(6)
 end
+
+puts roll
+puts "<<<<<<<>>>>>>>>"
+
+def roll_arr
+  a = Array(1..6)
+  a.at(rand(0...6))
+end
+
+puts roll_arr
