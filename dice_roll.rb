@@ -3,5 +3,7 @@
 # Feel free to google "how to generate a random number in ruby"
 
 def roll
-  # code goes here
+  # code goes 
+  dice=[*1...7]
+  dice[rand(0...6)]
 end
