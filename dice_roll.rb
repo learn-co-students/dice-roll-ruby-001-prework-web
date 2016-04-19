@@ -4,9 +4,6 @@
 
 def roll
   nums = []
-  (1..6).each do |element|
-nums << element
-end 
-nums.sample 
+  return (1..6).sample
   # code goes here
 end
