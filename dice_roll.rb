@@ -4,4 +4,7 @@
 
 def roll
   # code goes here
+  val = 0
+  arr = Array.new(6) { val += 1 }
+  arr[Random.new.rand(0..5)]
 end
