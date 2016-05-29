@@ -4,4 +4,7 @@
 
 def roll
   # code goes here
+  opts = [1,2,3,4,5,6]
+  opts.sample
+  # 1 + rand(6)
 end
