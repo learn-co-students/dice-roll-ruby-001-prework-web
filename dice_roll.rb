@@ -4,4 +4,15 @@
 
 def roll
   # code goes here
+  rand(1..6)
 end
+
+def roll_using_array
+    dice = Array(1..6)
+    dice.at(rand(1..6))
+end
+
+
+kyle = roll_using_array
+
+puts kyle
