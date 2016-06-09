@@ -4,4 +4,8 @@
 
 def roll
   # code goes here
+  arr = [1, 2, 3, 4, 5, 6]
+  return arr.at(rand(0..5))
+  # rand(1..6) 
+  # 1 + rand(6)
 end
