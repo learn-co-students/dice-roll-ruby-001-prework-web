@@ -4,4 +4,7 @@
 
 def roll
   # code goes here
+  arr = [1, 2, 3, 4, 5, 6]
+  arr[0..5].sample
+
 end
