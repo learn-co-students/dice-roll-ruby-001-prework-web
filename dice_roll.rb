@@ -1,6 +1,3 @@
-# Create method `roll` that returns a random number between 1 and
-# Feel free to google "how to generate a random number in ruby"
-
-def roll 
-  rand(6) + 1
+def roll(a = 1 + rand(6))
+return "#{a}".to_i
 end
