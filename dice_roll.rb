@@ -4,4 +4,7 @@
 
 def roll
   # code goes here
+  ary = [1,2,3,4,5,6]
+  ary[rand(ary.length)]
+  rand(1..6)
 end
