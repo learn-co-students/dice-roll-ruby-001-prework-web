@@ -2,6 +2,13 @@
 
 # Feel free to google "how to generate a random number in ruby"
 
-def roll
-  # code goes here
+# solve using ranges
+# def roll
+#   # code goes here
+#   rand (1..6)
+# end
+
+# solve using an array
+def roll(array = [1, 2, 3, 4, 5, 6])
+  array[rand(0..array.length - 1)]
 end
