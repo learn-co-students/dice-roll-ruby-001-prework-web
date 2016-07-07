@@ -4,4 +4,8 @@
 
 def roll
   # code goes here
+  for i in 1..6
+    r = rand 1..6
+ return r
+ end
 end
