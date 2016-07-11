@@ -8,7 +8,7 @@
 
 ## Ruby Ranges
 
-In Ruby, a "range" is a set of values with a beginning and an end. A range can contain strings or integers. 
+In Ruby, a "range" is a set of values with a beginning and an end. A range can contain strings or integers.
 
 A range of strings: `("a", "b", "c", "d")`
 
@@ -22,7 +22,7 @@ Using a `..` ("double-dot") includes the second number (`200`) in the range, whi
 
 Ranges can be helpful when you are generating [arrays](http://ruby-doc.org/core-2.2.0/Array.html) which we will be learning more about soon.  
 
-##Instructions 
+##Instructions
 
 Inside the `dice_roll.rb` file, define a method `roll` that returns a random number between one (1) and six (6).
 
@@ -31,9 +31,9 @@ Inside the `dice_roll.rb` file, define a method `roll` that returns a random num
 
 ##Bonus
 
-There are different ways to complete this lab. First, try to solve it by using ranges. Then for some extra fun, try to solve this lab using an array. 
+There are different ways to complete this lab. First, try to solve it by using ranges. Then for some extra fun, try to solve this lab using an array.
 
-**Hint:** *Think about how you can grab a random element out of an array.* 
+**Hint:** *Think about how you can grab a random element out of an array.*
 
 ## Resources
 * [CodeOdor Blog - Ruby random numbers](http://www.codeodor.com/index.cfm/2007/3/25/Ruby-random-numbers/1042)
