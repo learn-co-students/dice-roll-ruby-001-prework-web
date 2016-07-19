@@ -5,6 +5,5 @@
 def roll
   # code goes here
   die = [1,2,3,4,5,6]
-  die_roll = rand(0..5)
-  die[die_roll]
+  die[rand(0..5)]
 end
