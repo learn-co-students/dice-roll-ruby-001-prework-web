@@ -4,4 +4,6 @@
 
 def roll
   # code goes here
+  die = [1,2,3,4,5,6]
+  die[rand(0..5)]
 end
