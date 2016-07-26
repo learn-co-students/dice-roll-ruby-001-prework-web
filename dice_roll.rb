@@ -4,4 +4,6 @@
 
 def roll
   # code goes here
+  outcomes = [1,2,3,4,5,6]
+  outcomes[rand(1..6) - 1]
 end
