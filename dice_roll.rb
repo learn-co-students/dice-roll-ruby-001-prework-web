@@ -1,9 +1,11 @@
+=begin
+def roll
+  rand(1..6)
+end  
+=end
 
-
-rolls = [1, 2, 3, 4, 5, 6]
+#or
 
 def roll
-  return rand(1..6)
-end
-
-
+  [1,2,3,4,5,6].sample
+end  
