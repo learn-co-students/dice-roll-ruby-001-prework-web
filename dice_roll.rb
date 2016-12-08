@@ -1,7 +1,6 @@
-# Create method `roll` that returns a random number between 1 and 6
-
-# Feel free to google "how to generate a random number in ruby"
-
 def roll
-  # code goes here
+  #roll_value = rand(1..6) 
+  dice_values = (1..6).to_a
+  roll_value = dice_values.sample
 end
+
