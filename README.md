@@ -22,20 +22,21 @@ Using a `..` ("double-dot") includes the second number (`200`) in the range, whi
 
 Ranges can be helpful when you are generating [arrays](http://ruby-doc.org/core-2.2.0/Array.html) which we will be learning more about soon.  
 
-##Instructions 
+## Instructions 
 
 Inside the `dice_roll.rb` file, define a method `roll` that returns a random number between one (1) and six (6).
 
 **Hint:** *Try  googling "how to generate a random number in ruby".*
 
 
-##Bonus
+## Bonus
 
 There are different ways to complete this lab. First, try to solve it by using ranges. Then for some extra fun, try to solve this lab using an array. 
 
 **Hint:** *Think about how you can grab a random element out of an array.* 
 
 ## Resources
+
 * [CodeOdor Blog - Ruby random numbers](http://www.codeodor.com/index.cfm/2007/3/25/Ruby-random-numbers/1042)
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/dice-roll-ruby' title='Dice Roll'>Dice Roll</a> on Learn.co and start learning to code for free.</p>
