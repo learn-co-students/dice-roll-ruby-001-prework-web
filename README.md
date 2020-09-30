@@ -2,7 +2,7 @@
 
 ## Objectives
 
-1. Write code within a method.
+1. Write optimized code within a method.
 2. Get more practice returning values.
 3. Explore number ranges.
 
