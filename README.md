@@ -1,5 +1,5 @@
 # Dice Roll
-
+we are going to see an amazing project
 ## Objectives
 
 1. Write code within a method.
