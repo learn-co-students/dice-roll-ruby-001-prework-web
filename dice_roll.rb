@@ -4,4 +4,8 @@
 
 def roll
   # code goes here
+  #rand(1..6)
+  six = [1, 2, 3, 4, 5, 6]
+  num = rand(0..5)
+  six[num]
 end
