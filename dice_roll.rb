@@ -3,5 +3,10 @@
 # Feel free to google "how to generate a random number in ruby"
 
 def roll
-  # code goes here
+  nums = []
+  (1..6).each do |i|
+    nums << i
+  end
+  nums.shuffle.pop
 end
+
